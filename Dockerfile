@@ -1,4 +1,4 @@
-FROM fuocnetwork/go-ethereum:latest
+FROM fuocnetwork/go-ethereum
 
 ENV IP=127.0.0.1 \
   PORT=30301 \
